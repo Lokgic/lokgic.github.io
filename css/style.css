@@ -156,6 +156,9 @@ nav a {
 
  }
 
+#topic a:hover, #modules a:hover{
+  color: #999;
+}
  #modules a {
   font-family: "Roboto", arial, sans-serif;
   font-size: 120%;}
