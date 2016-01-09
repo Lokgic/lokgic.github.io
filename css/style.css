@@ -47,6 +47,7 @@ Navigation Bar
     padding: 0 10px 10px 10px;
     background: #565656;
     border-radius: 15px;
+    text-shadow: 3px 3px 3px black;
 
 
 
@@ -112,6 +113,8 @@ nav a {
 
   height: 450px;
   border-radius: 10%;
+  color: #D2D8DD ;
+  text-shadow: 5px 5px 5px black;
 }
 
 .info ul {
@@ -137,7 +140,7 @@ nav a {
 
 .info h1 {font-size: 3em;
           margin: 0;
-          text-shadow:1px 1px;}
+           }
 
 
 #quote { 
@@ -145,6 +148,7 @@ nav a {
   font-family: "Roboto", arial, sans-serif;
         padding: 20px 90px;
       text-align: justify;
+      text-shadow: 10px 15px 15px black;
 
 
       }
@@ -174,6 +178,7 @@ nav a {
 
  #left, #middle, #details {
  	width: 33%;
+  text-shadow: 2px 2px 2px black;
  }
 
 
