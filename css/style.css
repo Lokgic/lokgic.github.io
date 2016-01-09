@@ -104,13 +104,14 @@ nav a {
 .info{
 
   width: 100%; 
-    background:   linear-gradient(0deg, #333E48, transparent ),
+
+  /*  background:   linear-gradient(0deg, #333E48, transparent ),
                   linear-gradient(180deg, #333E48, transparent ),
                 radial-gradient(circle, transparent 10%, #787C7F 40%, #333E48 80%),
                 rgba(17,67,85, .5) url(../img/carnap.png);
 
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center;*/
 
   height: 450px;
   border-radius: 10%;
@@ -154,7 +155,7 @@ nav a {
 
       }
 
-#carnap{text-align: right;
+#author{text-align: right;
       padding-right: 60px;}
 /**INDEX BODY*/
 
