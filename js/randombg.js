@@ -14,7 +14,7 @@ $(function() {
 	{"lname": "Russell", "fname":"Bertrand", "source":"Principle of Mathematics",
 	"quote": "The fact that all Mathematics is Symbolic Logic is one of the greatest discoveries of our age; and when this fact has been established, the remainder of the principles of mathematics consists in the analysis of Symbolic Logic itself."},
 	{"lname": "Peirce", "fname":"Charles Sander", "source": "Illustration of the Logic Science",
-	"quote": "The fact that all Mathematics is Symbolic Logic is one of the greatest discoveries of our age; and when this fact has been established, the remainder of the principles of mathematics consists in the analysis of Symbolic Logic itself."}
+	"quote": "Few persons care to study logic, because everybody conceives himself to be proficient enough in the art of reasoning already. But I observe that this satisfaction is limited to one's own ratiocination and does not extend to that of other men. We come to the full possession of our power of drawing inferences the last of all our faculties, for it is not so much a natural gift as a long and difficult art."}
 	]
 	var $info = $('.info');
 	var $author = $('#author');
