@@ -15,8 +15,8 @@
   ],
   
   "advanced" :[
-    {"title": "Identity Intro and Deduction", "module": "11"},
-    {"title": "Identity Semantics and Transcriptions", "module": "12"}
+    {"title": "Intro to Identity and Deduction", "module": "11"},
+    {"title": "Semantics and Transcription Involving Identity", "module": "12"}
 
   ]
 
