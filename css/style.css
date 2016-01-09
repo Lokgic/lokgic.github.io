@@ -43,7 +43,7 @@ Navigation Bar
 .top-bar {
     font-family: "Roboto", san-serif;
     font-size: 2em;
-    margin: 0;
+    margin: 0 0 50px 0;
     padding: 0 10px 10px 10px;
     background: #565656;
     border-radius: 15px;
@@ -99,23 +99,56 @@ nav a {
 
 /*Info*/
 
+.info{
 
-#info ul {
+  width: 100%; 
+  background: radial-gradient(circle, transparent -40%, #787C7F 40%, #333E48 90%),
+                url(../img/carnap.png);
+
+  background-repeat: no-repeat;
+  background-position: center;
+
+  height: 450px;
+  border-radius: 10%;
+}
+
+.info ul {
 	list-style: none;
-	margin:0;
-	padding: 10px 0 0 10px;
   text-align: left;
 
-
-
 }
 
 
-#info ul li{
-	font-size:.5em;
+.info ul li{
     display: block;
+    font-size: 15px;
+      font-family: "Crimson Text", serif;
+
 }
 
+
+.info li h3 {
+  margin: 0;
+  font-size: 1.2em;
+
+}
+
+.info h1 {font-size: 3em;
+          margin: 0;
+          text-shadow:1px 1px;}
+
+
+#quote { 
+        width: 100%;
+  font-family: "Roboto", arial, sans-serif;
+        padding: 20px 90px;
+      text-align: justify;
+
+
+      }
+
+#carnap{text-align: right;
+      padding-right: 60px;}
 /**INDEX BODY*/
 
 .third, .topic {
