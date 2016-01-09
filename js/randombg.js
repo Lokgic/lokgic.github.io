@@ -1,7 +1,7 @@
 $(function() {
 	var data = [
 	{"lname": "Carnap", "fname": "Rudolf", "source": "The Unity of Science", 
-	"quote": '"Logic is the last scientific ingredient of Philosophy; its extraction leaves behind only a confusion of non-scientific, pseudo problems."'},
+	"quote": 'Logic is the last scientific ingredient of Philosophy; its extraction leaves behind only a confusion of non-scientific, pseudo problems.'},
 
 	{"lname": "Frege", "fname": "Gottlob", "source": "Begriffsschrift", 
 	"quote": "If the task of philosophy is to break the domination of words over the human mind... then my concept notation, being developed for these purposes, can be a useful instrument for philosophers... I believe the cause of logic has been advanced already by the invention of this concept notation."},
