@@ -395,6 +395,9 @@ font-size: 1.1em;
   tr {
     background-color: #ccc;}
 
+#note {
+  text-shadow: none;
+}
 
 /** Index Columns
 
