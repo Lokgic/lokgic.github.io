@@ -102,8 +102,10 @@ nav a {
 .info{
 
   width: 100%; 
-  background: radial-gradient(circle, transparent -40%, #787C7F 40%, #333E48 90%),
-                url(../img/carnap.png);
+    background:   linear-gradient(0deg, #333E48, transparent ),
+                  linear-gradient(180deg, #333E48, transparent ),
+                radial-gradient(circle, transparent 10%, #787C7F 40%, #333E48 80%),
+                rgba(17,67,85, .5) url(../img/carnap.png);
 
   background-repeat: no-repeat;
   background-position: center;
