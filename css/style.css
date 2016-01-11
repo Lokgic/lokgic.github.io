@@ -151,7 +151,7 @@ nav a {
         padding: 20px 90px;
       text-align: justify;
       text-shadow: 10px 15px 15px black;
-
+      margin-top: 60px;
 
       }
 
@@ -395,6 +395,9 @@ font-size: 1.1em;
   tr {
     background-color: #ccc;}
 
+.note {
+  text-shadow: none;
+}
 
 /** Index Columns
 
