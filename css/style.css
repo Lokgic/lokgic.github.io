@@ -528,16 +528,22 @@ font-size: 1.1em;
 
   .third {
 
-  clear: both;
+  float: none;
   
     padding: 20px;
-  
+      margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+    text-align: center;
 
    
  }
 
   #left a {
-    font-size: 1.2em
+    font-size: 1.2em;
+    line-height: 1em;
+    text-align: center;
+
   }
 
 
