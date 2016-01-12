@@ -526,8 +526,8 @@ font-size: 1.1em;
     width: 100%;
     margin: 0 auto 0 auto;}
 
-    #left {margin-left:70px;
-
+    #left #middle #detials {margin: 0;
+      width: 100%;
     }
 
 
@@ -541,12 +541,6 @@ font-size: 1.1em;
  }
 
 /********** PANELS **********/
-.tab-panel {
-  display: none;
-  background-color: #333E48;
-  color: #666;
-  min-height: 150px;
-  overflow: auto;}
 
 .tab-panel.active {
   display: block;
