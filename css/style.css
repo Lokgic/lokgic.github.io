@@ -526,11 +526,10 @@ font-size: 1.1em;
     width: 100%;
     margin: 0 auto 0 auto;}
 
-  .third, {
+  .third {
 
   clear: both;
-  background: #333E48;
-  color: #fff;
+  
     padding: 20px;
   
 
