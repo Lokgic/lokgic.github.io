@@ -178,16 +178,20 @@ nav a {
  	   margin-right: 10px;
  }
 
- #left, #middle, #details {
+ #left, #middle,  {
  	width: 33%;
   text-shadow: 2px 2px 2px black;
  }
 
+#details {
+  width: 33%;
+  text-shadow: 1px 1px 1px black;
+ }
 
  #left a{
  	 font-family: "Roboto", san-serif;
  	margin-bottom: 5px;
- 	  font-size: 1em;
+ 	  font-size: 1.2em;
   text-transform: uppercase;
   text-align: left;
   line-height: 4.5em;
@@ -409,7 +413,7 @@ font-size: 1.1em;
 
   .top-bar {
 
-      font-size: 1em;
+      font-size: 1.1em;
       margin: 0;
 
       border-radius: 0px;
@@ -440,5 +444,17 @@ font-size: 1.1em;
   body {margin: 0;
     width: 100%;
     margin: 0 auto 0 auto;}
+
+    #left {margin: 0 70px;
+
+    }
+  #left a {
+    font-size: 1.2em
+  }
+
+
+ #topic a img{
+  display: none;
+ }
 
 }
