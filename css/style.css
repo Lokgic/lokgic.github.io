@@ -413,7 +413,7 @@ font-size: 1.1em;
 
   .top-bar {
 
-      font-size: 1.1em;
+      font-size: 1.2em;
       margin: 50px;
 
       border-radius: 30px;
@@ -458,5 +458,29 @@ font-size: 1.1em;
  #topic a img{
   display: none;
  }
+
+/********** PANELS **********/
+.tab-panel {
+  display: none;
+  background-color: #333E48;
+  color: #666;
+  min-height: 150px;
+  overflow: auto;}
+
+.tab-panel.active {
+  display: block;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, .5);
+  padding: 50px 5px;
+  background-color:rgba(145, 145, 145, 1);
+  margin: 0 50px;
+  }
+.tab-list {
+  margin: 0 50px;
+  padding: 0;}
+
+
+.tabs{
+  margin: 20px;
+}
 
 }

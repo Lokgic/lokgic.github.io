@@ -125,3 +125,21 @@ width: 100%;
   margin-right: 30px;
   text-align: justify;
 }
+
+@media (max-width: 1333px) and (min-width: 850px){
+
+  .content div {
+    width: 7em;
+    height: 12em;
+
+
+
+  }
+  #interaction button{
+
+      width: 330px;
+  }
+
+
+
+}
