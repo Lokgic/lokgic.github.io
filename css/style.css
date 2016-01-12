@@ -445,9 +445,11 @@ font-size: 1.1em;
     width: 850px;
     margin: 0 auto 0 auto;}
 
-    .third {margin: 0 20px;
+    #left {margin-left: 30px;
 
     }
+
+    #right {margin-right:30px;}
   #left a {
     font-size: 1.2em
   }
