@@ -528,7 +528,7 @@ font-size: 1.1em;
 
   .third, {
 
-  float: none;
+  clear: both;
   background: #333E48;
   color: #fff;
     padding: 20px;
