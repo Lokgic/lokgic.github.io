@@ -551,6 +551,8 @@ font-size: 1.1em;
   display: none;
  }
 
+ #details { min-width: 300px;}
+
 /********** PANELS **********/
 
 .tab-panel.active {
