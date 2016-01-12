@@ -554,6 +554,11 @@ font-size: 1.1em;
  #details.third { width: 90%;
         margin: 0;}
 
+  #details.third h3, #details.third h4{
+  text-align: center;
+
+  }
+
 /********** PANELS **********/
 
 .tab-panel.active {
