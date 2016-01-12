@@ -143,7 +143,7 @@ $(function(){
 	function printCards(cards){
 		var html = "<form>";
 		for (var i = 0; i < cards.length; i++){
-			html += "<div><p>" + cards[i] + "</p><input type ='checkbox' class = 'box' id = " + cards[i] +" value = "+ cards[i] +"><label for=cards[i]></label></div>";
+			html += "<label for= '"+cards[i]+"'><div><p>" + cards[i] + "</p><input type ='checkbox' class = 'box' id = " + cards[i] +" value = "+ cards[i] +"></label></div>";
 		}
 		html += "</form>"
 		$content.append(html);
@@ -211,9 +211,9 @@ $(function(){
 	}
 
 /******Begining Parameter of the Game *///////
-	var vowels = ['a','e','u'];
-	var consonants = ['b', 'f','h'];
-	var number = [2,3,4,5,6,7,8,9]
+	var vowels = ['a','e','u','i'];
+	var consonants = ['b','h','p','z'];
+	var number = [1,2,3,4,5,6,7,8,9]
 	var possibility = ["an even number", "an odd number", "a consonant", "a vowel"];
 
 /* game initiation*/

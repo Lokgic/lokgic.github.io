@@ -21,7 +21,7 @@
   text-transform: uppercase;
 
   font-size: 6em;
-  font-family: 'Montserrat', sans-serif;
+   font-family: 'Roboto Mono', sans-serif;
   margin: 0;
     position: absolute;
     top: 50%;
@@ -61,7 +61,7 @@
     -webkit-border-radius: 5px;
     border-radius:6px;
     color: #fff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
     font-size: 1.2em;
     text-decoration: none;
     cursor: pointer;
@@ -76,6 +76,4 @@
     background:grey;
     box-shadow: 0px 0px 1px #777;
 }
-
-
 
