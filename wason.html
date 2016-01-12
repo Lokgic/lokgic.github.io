@@ -30,15 +30,20 @@
 
     </section> 
 
-       <div id = "instruction"><p>Which card(s) must you turn over in order to verify the statement above?</p></div>
+       <div id = "instruction"><p>Suppose each card has a number on one side and a letter on the other. <br>Which of these cards MUST be turned over if you want to know if the statement above them is FALSE?<br>Choose by clicking and press "Confirm Answer".</p></div>
        <div id = "interaction">
        <ul><li><button id = "confirm"> Confirm Answer </button></li>
        <li><button id = 'retry'> Try This Again </button></li>
         <li><button id = 'reload'> Start Over with New Cards</button></li>
 
         </div>
+        <button id = "helpbutton">?</button>
+        <div id = "overlay"><div id ="overlay-content"><h1>Uh...What's the Deal?</h1><p>Note that the cards you picked must be absolutely necessary for checking the falsehood of the statement. How can we know if a card is necessary? Look at the logical connective used in the statement given, and recall how they are truth-functionally defined. That should give you the sufficient information on how to determine the falsehood of the given statement.<p>This activity is know as the <i>Wason Selection Task</i>, devised by Peter Wason in 1966. In his study, less than 10% of his subjects picked the right cards. This reinforces Peirce's quote (shown randomly on the home page of this website) we in general suck at logic, and only after enough training, we will (hopefully) do better.</p> <br>(Click anywhere to close)</div></div>
+
        
-  </body>
+  
   <script src="http://code.jquery.com/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>
         <script src="js/wason.js"></script>
+        <script src="js/modal-help-window.js"></script>
+    </body>
   </html>

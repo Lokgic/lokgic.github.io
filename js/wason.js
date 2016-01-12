@@ -226,8 +226,6 @@ $(function(){
 	var answer = makeAnswer(rule);
 	
 	
-	
-
 
 
 	//var x = makeNumber();
