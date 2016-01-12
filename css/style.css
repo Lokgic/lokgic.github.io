@@ -551,7 +551,7 @@ font-size: 1.1em;
   display: none;
  }
 
- #details { min-width: 300px;}
+ #details.third { width: 70%;}
 
 /********** PANELS **********/
 
