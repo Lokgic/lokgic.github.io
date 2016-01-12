@@ -483,9 +483,14 @@ font-size: 1.1em;
   margin: 20px;
 }
 
+.panel p {
+margin: 5px 10px;
+font-size: 1em;
 }
 
+}
 
+/**********************smallest*****/
 
 @media (max-width: 900px) {
   html {margin:0;
