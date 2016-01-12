@@ -191,7 +191,7 @@ $(function(){
 	$retry.on('click', function(){
 		$confirm.show();
 		$retry.hide();
-		$instruction.html("<p>Alright, give it another go!</p>");
+		$instruction.html("<p>Alright, give it another go! Which card(s) must you turn over in order to verify the statement above?</p>");
 		})
 	$retry.hide();
 
