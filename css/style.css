@@ -445,7 +445,7 @@ font-size: 1.1em;
     width: 850px;
     margin: 0 auto 0 auto;}
 
-    #left #middle #detail {margin: 0 20px;
+    .left {margin: 0 20px;
 
     }
   #left a {
