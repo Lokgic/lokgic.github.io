@@ -406,7 +406,7 @@ font-size: 1.1em;
 /** Media Queries **/
 
 
-@media (max-width: 1333px) and (min-width: 901px){
+@media (max-width: 1333px) {
   html {margin:0;
   }
 
