@@ -445,11 +445,11 @@ font-size: 1.1em;
     width: 850px;
     margin: 0 auto 0 auto;}
 
-    #left {margin-left:auto;
+    #left {margin-left:70px;
 
     }
 
-    #details {margin-right:auto;}
+
   #left a {
     font-size: 1.2em
   }
