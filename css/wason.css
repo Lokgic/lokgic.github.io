@@ -146,7 +146,7 @@ width: 100%;
 }
 
 
-@media (max-width: 850px) {
+@media (max-width: 850px) and (orientation:portrait) {
 
   .content div {
     width: 8em;
