@@ -484,3 +484,139 @@ font-size: 1.1em;
 }
 
 }
+
+
+
+@media (max-width: 849px) {
+  html {margin:0;
+  }
+
+
+  .top-bar {
+
+      font-size: 1em;
+      margin: 0px;
+
+      border-radius: 0px;
+
+
+
+
+
+  }
+
+
+
+  nav {
+   text-align: center;
+    padding: 2px 2px;
+    margin: 0px 0 0;
+
+  }
+
+
+  nav a {
+    
+   font-weight:700;
+   font-size:1em;
+    padding: 2px 5px;
+  }
+
+  body {margin: 0;
+    width: 100%;
+    margin: 0 auto 0 auto;}
+
+    #left {margin-left:70px;
+
+    }
+
+
+  #left a {
+    font-size: 1.2em
+  }
+
+
+ #topic a img{
+  display: none;
+ }
+
+/********** PANELS **********/
+.tab-panel {
+  display: none;
+  background-color: #333E48;
+  color: #666;
+  min-height: 150px;
+  overflow: auto;}
+
+.tab-panel.active {
+  display: block;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, .5);
+  padding: 50px 5px;
+  background-color:rgba(145, 145, 145, 1);
+  margin: 0 10px;
+  }
+.tab-list {
+  margin: 0 ;
+  padding: 0;}
+
+
+.tabs{
+  margin: 0;
+}
+
+/********** TABS **********/
+
+
+.tab-list li {
+
+  letter-spacing: 0.1em;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  display: block;
+  text-align: center;}
+
+.tab-list li a {
+
+  display: block;
+  padding: 0;}
+
+
+/********** HOVER STATES for TABS**********/
+.tab-list li.active, .tab-list li.hover {
+
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  font-size: 1em;
+}
+
+.tab-list li.active a, .tab-list li a:hover {
+
+  font-size: 1em;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;}
+
+.control{
+
+  font-size: 1em;
+
+  display: block;
+  width:100%;
+  padding: 1em 1em 1em 1em;
+  margin: 0;
+  border-radius: 0 ;
+
+
+  }
+
+
+.panel {padding: 5px;
+      text-align: justify;
+      text-justify: inter-word;}
+.panel p {
+margin: 5px 10px;
+font-size: 1em;
+}
+
+
+
+}

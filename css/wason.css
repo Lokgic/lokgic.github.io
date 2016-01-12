@@ -129,8 +129,9 @@ width: 100%;
 @media (max-width: 1333px) and (min-width: 850px){
 
   .content div {
-    width: 7em;
-    height: 12em;
+     width: 8em;
+    height: 10em;
+    margin-left: 20%;
 
 
 
@@ -138,6 +139,40 @@ width: 100%;
   #interaction button{
 
       width: 330px;
+  }
+
+
+
+}
+
+
+@media (max-width: 850px) {
+
+  .content div {
+    width: 8em;
+    height: 10em;
+    margin-left: 40px;
+
+
+  }
+  #interaction:{margin-top: 30px;}
+  #interaction button{
+      font-size: 1em;
+      width:200px;
+  }
+
+  #instruction {
+    font-size: 1em;
+
+
+
+    height: 8em;
+
+
+    padding: 5px;
+    margin: 5px;
+
+
   }
 
 
