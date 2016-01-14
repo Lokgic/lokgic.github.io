@@ -157,7 +157,7 @@ nav a {
 
 #author{text-align: right;
       padding-right: 60px;}
-/**INDEX BODY*/
+/**MODULE BODY*/
 
 .third, .topic {
 
@@ -201,6 +201,8 @@ nav a {
 
 
  }
+
+ #middle a {width: 150px;}
 
 #topic a:hover, #modules a:hover{
   color: #999;
