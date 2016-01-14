@@ -500,7 +500,7 @@ font-size: 1em;
 
 /**********************smallest*****/
 
-@media (max-width: 900px) {
+@media (max-width: 550) {
   html {margin:0;
   }
 
