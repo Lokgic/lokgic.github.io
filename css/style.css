@@ -500,7 +500,7 @@ font-size: 1em;
 
 /**********************smallest*****/
 
-@media (max-width: 550px) {
+@media (max-width: 550px), (orientation:portrait) {
   html {margin:0;
   }
 
@@ -558,7 +558,7 @@ font-size: 1em;
     line-height: 1em;
     text-align: left;
     display: inline-block;
-    margin: 5px;
+    margin: 25px;
     width: 70px;
 
   }
