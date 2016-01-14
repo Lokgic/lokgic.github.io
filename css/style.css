@@ -554,11 +554,11 @@ font-size: 1em;
 
 
   #left a {
-    font-size: 1.2em;
+    font-size: 1em;
     line-height: 1em;
     text-align: left;
-    float: left;
-
+    display: inline-block;
+    margin: 5px;
 
   }
 
