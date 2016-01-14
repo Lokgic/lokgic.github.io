@@ -562,7 +562,9 @@ font-size: 1em;
     width: 70px;
 
   }
-
+ #left{
+ 	margin-left: 5px;
+ }
 
  #topic a img{
   display: none;
