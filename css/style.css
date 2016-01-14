@@ -566,6 +566,8 @@ font-size: 1em;
  	margin-left: 5px;
  }
 
+ #topic {height: 100px;}
+
  #topic a img{
   display: none;
  }
