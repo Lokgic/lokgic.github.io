@@ -504,6 +504,9 @@ font-size: 1em;
   html {margin:0;
   }
 
+  body{
+  	min-width: 500px;
+  }
 
   .top-bar {
 
