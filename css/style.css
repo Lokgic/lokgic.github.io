@@ -459,7 +459,10 @@ font-size: 1.1em;
     font-size: 1.2em
   }
 
+ .third {
 
+ 	width: 230px;
+ }
  #topic a img{
   display: none;
  }
