@@ -571,6 +571,7 @@ font-size: 1em;
   }
  #left{
  	margin-left: 5px;
+ 	width: 100%;
  }
 
  #topic {height: 50px;}
