@@ -450,19 +450,23 @@ font-size: 1.1em;
     width: 850px;
     margin: 0 auto 0 auto;}
 
-    #left {margin-left:70px;
+    #left {margin:70px 0 0 0;
+    		width: 150px;
 
     }
+    #middle:{width: 200px;}
+    #details{width: 380px;}
 
 
   #left a {
     font-size: 1.2em
   }
-
+/*
  .third {
 
  	width: 230px;
  }
+ */
  #topic a img{
   display: none;
  }
