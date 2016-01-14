@@ -179,12 +179,13 @@ nav a {
  }
 
  #left, #middle,  {
- 	width: 33%;
+ 	width: 300px;
+ 
   text-shadow: 2px 2px 2px black;
  }
 
 #details {
-  width: 33%;
+  width: 300px;
   text-shadow: 1px 1px 1px black;
  }
 
