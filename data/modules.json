@@ -5,7 +5,7 @@
     {"title": "Validity and Conditionals", "module": "3"},
     {"title": "Truth Trees", "module": "4"},
     {"title": "Natural Deduction", "module": "5"},
-    {"title": "Theorem Proving in SL", "module": "6"}
+    {"title": "Theorem Proving", "module": "6"}
   ],
   "predicate" :[
     {"title": "Semantics", "module": "7"},  
