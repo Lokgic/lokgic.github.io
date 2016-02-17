@@ -5,9 +5,9 @@
     {"title": "Validity and Conditionals", "module": "3"},
     {"title": "Truth Trees", "module": "4"},
     {"title": "Natural Deduction", "module": "5"}
+    {"title": "Theorem Proving in SL", "module": "6"},
   ],
   "predicate" :[
-    {"title": "Intro to Predicate Logic", "module": "6"},
     {"title": "Semantics", "module": "7"},  
     {"title": "More Quantifers and Transcription", "module": "8"},
     {"title": "Deduction in PL", "module": "9"},
