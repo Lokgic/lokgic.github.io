@@ -8,15 +8,16 @@
     {"title": "Theorem Proving", "module": "6"}
   ],
   "predicate" :[
-    {"title": "Semantics", "module": "7"},  
-    {"title": "More Quantifers and Transcription", "module": "8"},
-    {"title": "Deduction in PL", "module": "9"},
-    {"title": "Truth Trees in PL", "module": "10"}
+    {"title": "Intro to Predicate Logic", "module": "7"},  
+    {"title": "Quantifers and Transcription", "module": "8"},
+    {"title": "Model Semantics", "module": "9"},
+    {"title": "Deduction in PL", "module": "10"},
+    {"title": "Theorems in PL", "module": "11"}
   ],
   
   "advanced" :[
-    {"title": "Intro to Identity and Deduction", "module": "11"},
-    {"title": "Semantics and Transcription Involving Identity", "module": "12"}
+    {"title": "Intro to Identity", "module": "12"},
+    {"title": "Advanced Identity", "module": "13"}
 
   ]
 
